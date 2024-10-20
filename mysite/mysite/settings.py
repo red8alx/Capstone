@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-(3xz3#j_dvp8*j=+##yaf!bh1o912k$_rg0#=o-v=gp72&t*mm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ["*"]
-ALLOWED_HOSTS = [ 'alxblogapi.herokuapp.com' ]
+ALLOWED_HOSTS = ["*"]
+#ALLOWED_HOSTS = [ 'alxblogapi.herokuapp.com' ]
 #CSRF_TRUSTED_ORIGINS = ["http://*.on-acorn.io", "https://*.on-acorn.io"]
 
 
